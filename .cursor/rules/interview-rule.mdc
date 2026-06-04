@@ -1,0 +1,10 @@
+---
+description: Interview Project Rule
+alwaysApply: true
+---
+
+Focus on interview-related features.
+
+Prefer React Native solutions.
+
+Keep code reusable.
