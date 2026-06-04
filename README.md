@@ -1,23 +1,12 @@
 # AI Interview Practice System
 
-## Overview
+This repository contains the context files for the AI Interview Practice System project.
 
-The AI Interview Practice System helps students prepare for interviews by providing practice questions and structured feedback.
+Files included:
+- CLAUDE.md
+- AGENTS.md
+- .cursor/rules/interview-rule.mdc
+- .claude/skills/interview-feedback/SKILL.md
 
-## Features
-
-* Interview practice questions
-* Feedback generation
-* Confidence scoring
-* Improvement suggestions
-
-## Project Structure
-
-* CLAUDE.md – Project context for Claude
-* AGENTS.md – Agent instructions
-* .cursor/rules/interview-rule.mdc – Cursor rule
-* .claude/skills/interview-feedback/SKILL.md – Interview feedback skill
-
-## Purpose
-
-This repository demonstrates how agent context improves AI assistance by providing project-specific instructions and conventions.
+Purpose:
+To provide project-specific context and instructions for AI agents.
